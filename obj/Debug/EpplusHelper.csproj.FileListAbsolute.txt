@@ -1,0 +1,13 @@
+D:\项目读写RTFEXCELTXT\ToolConvert\EpplusHelper\bin\Debug\EpplusHelper.exe.config
+D:\项目读写RTFEXCELTXT\ToolConvert\EpplusHelper\bin\Debug\EpplusHelper.exe
+D:\项目读写RTFEXCELTXT\ToolConvert\EpplusHelper\bin\Debug\EpplusHelper.pdb
+D:\项目读写RTFEXCELTXT\ToolConvert\EpplusHelper\bin\Debug\EPPlus.dll
+D:\项目读写RTFEXCELTXT\ToolConvert\EpplusHelper\obj\Debug\EpplusHelper.exe
+D:\项目读写RTFEXCELTXT\ToolConvert\EpplusHelper\obj\Debug\EpplusHelper.pdb
+D:\项目读写RTFEXCELTXT\ToolConvert\EpplusHelper\obj\Debug\EpplusHelper.csprojResolveAssemblyReference.cache
+D:\GIT\GitHub\EpplusHelper\bin\Debug\EpplusHelper.exe.config
+D:\GIT\GitHub\EpplusHelper\bin\Debug\EpplusHelper.exe
+D:\GIT\GitHub\EpplusHelper\bin\Debug\EpplusHelper.pdb
+D:\GIT\GitHub\EpplusHelper\bin\Debug\EPPlus.dll
+D:\GIT\GitHub\EpplusHelper\obj\Debug\EpplusHelper.exe
+D:\GIT\GitHub\EpplusHelper\obj\Debug\EpplusHelper.pdb
